@@ -13,7 +13,7 @@
 ## [~] Input Your Name & Restart The App
 ### Or ; Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/YUDAMODS/Tbanner && cd Tbanner && bash setup.sh
+apt update && apt install git -y && git clone https://github.com/YUDAMODS/Tbanner && cd Tbanner && bash main.sh
 ```
 
 ## [+] Features :
