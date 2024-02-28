@@ -24,7 +24,7 @@ apt update && apt install git -y && git clone https://github.com/YUDAMODS/Tbanne
 ## [+] Find Me on :
 
 [![Github](https://img.shields.io/badge/Github-YUDAMODS-green?style=for-the-badge&logo=github)](https://github.com/YUDAMODS)
-[![Youtube](https://img.shields.io/badge/Youtube-%40YUDAMODS-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/yudamods)
-[![Telegram](https://img.shields.io/badge/Telegram-Messenger-blue?style=for-the-badge&logo=messenger)](https://t.me/YUDAMODS)
+[![Youtube](https://img.shields.io/badge/Youtube-%40YUDAMODS-red?style=for-the-badge&logo=Youtube)](https://www.instagram.com/yudamods)
+[![Telegram](https://img.shields.io/badge/Telegram-YUDAMODS-blue?style=for-the-badge&logo=Telegram)](https://t.me/YUDAMODS)
 
 
