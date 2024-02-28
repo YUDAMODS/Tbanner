@@ -3,8 +3,6 @@
 ### [+] Disclaimer :
 ***T Banner is a tool to Shell & Interface of Termux App.Give A Awesome Look to your Termux App.This Tool is created for Educational Purpose only.***
 
-<img src="https://i.ibb.co/HpHFqL2/Untitled.jpg" alt="1" border="0">
-
 ## [+] Installation :
 
 * ```apt update```
